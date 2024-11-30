@@ -1,0 +1,4 @@
+[submodule "joxn00/public"]
+	path = joxn00/public
+	url = https://github.com/Joxn00/joxn00.github.io.git
+	branch = main
